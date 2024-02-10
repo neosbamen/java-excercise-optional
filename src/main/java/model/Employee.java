@@ -6,6 +6,7 @@ public class Employee {
     private Integer id;
     private DepartmentTypeEnum department;
 
+
     public Employee(String name, Integer id, DepartmentTypeEnum department) {
         this.name = name;
         this.id = id;
